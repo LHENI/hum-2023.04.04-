@@ -1,0 +1,6 @@
+program.version = 0.1
+
+database.type = mysql
+database.name = adatbázisnév
+database.user = adatbázis_felhasználó
+database.pass = titok
